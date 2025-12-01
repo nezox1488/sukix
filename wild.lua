@@ -9,7 +9,7 @@ local menuKey = Enum.KeyCode.M -- кнопка для открытия GUI
 local killFlyMurderKey = Enum.KeyCode.K
 local autoMansKey = Enum.KeyCode.P
 local noClipKey = Enum.KeyCode.Z
-local fuckerMurderKey = Enum.KeyCode.O 
+local fuckerMurderKey = Enum.KeyCode.H
 local fuckerSheriffKey = Enum.KeyCode.I 
 local teleportMapKey = Enum.KeyCode.Insert -- НОВАЯ КЛАВИША: TeleportMap
 
